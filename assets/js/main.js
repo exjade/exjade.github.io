@@ -4,6 +4,16 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+$(".menu").mousedown(function(){
+	$(this).toggleClass("closed");
+	
+	if($(this).hasClass("closed")) {
+		$(".main.button").text("Menu");
+	} else {
+		$(".main.button").text("Close");
+	}
+})
+
 (function($) {
 
 	skel
