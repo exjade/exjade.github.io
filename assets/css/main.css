@@ -1361,8 +1361,8 @@
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #43bff0;
-			color: #fff !important;
+			background-color: #A93238;
+			color: #FFFAFB !important;
 		}
 
 		input[type="button"]:active,
@@ -1445,7 +1445,7 @@
 					-webkit-transition: background-color .2s ease-in-out;
 					-ms-transition: background-color .2s ease-in-out;
 					transition: background-color .2s ease-in-out;
-					background-color: #444;
+					background-color: #4A4A4A;
 					border-radius: 6px;
 					box-shadow: inset 0px 0px 0px 1px #282828, inset 0px 2px 1px 0px rgba(255, 255, 255, 0.1);
 					color: #2E2E2E !important;
@@ -1461,23 +1461,23 @@
 				}
 
 				ul.social li a.fa-twitter {
-					background-color: #2DAAE4;
+					background-color: #2BA8E2;
 				}
 
 				ul.social li a.fa-facebook {
-					background-color: #3C5A98;
+					background-color: #3A5A9A;
 				}
 
 				ul.social li a.fa-dribbble {
-					background-color: #C4376B;
+					background-color: #C4386C;
 				}
 
 				ul.social li a.fa-linkedin {
-					background-color: #006599;
+					background-color: #006495;
 				}
 
 				ul.social li a.fa-tumblr {
-					background-color: #51718A;
+					background-color: #52748E;
 				}
 
 				ul.social li a.fa-google-plus {
@@ -1608,7 +1608,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #fafafa;
+			background-color: #E4E2E2;
 			text-shadow: 1px 1px 0px #fff;
 		}
 
@@ -1624,7 +1624,7 @@
 		}
 
 			.wrapper.style4 h1, .wrapper.style4 h2, .wrapper.style4 h3, .wrapper.style4 h4, .wrapper.style4 h5, .wrapper.style4 h6 {
-				color: #fff;
+				color: #E4E2E2;
 			}
 
 			.wrapper.style4 form input[type=text],
@@ -1645,7 +1645,7 @@
 /* Nav */
 
 	#nav {
-		background-color: #282828;
+		background-color: #3F43A5;
 		text-align: center;
 		position: fixed;
 		left: 0;
@@ -1672,7 +1672,7 @@
 		}
 
 			#nav a:hover {
-				color: #fff !important;
+				color: #F8F8F8 !important;
 			}
 
 			#nav a.active:before {
@@ -1684,7 +1684,7 @@
 				margin-left: -0.75em;
 				border-left: solid 0.75em transparent;
 				border-right: solid 0.75em transparent;
-				border-top: solid 0.6em #282828;
+				border-top: solid 0.6em #4C4C63;
 			}
 
 /* Articles */
